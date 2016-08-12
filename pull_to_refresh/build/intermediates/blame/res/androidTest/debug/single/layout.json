@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\fanji\\AndroidStudioProjects\\TestTodoist01\\pull_to_refresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\Users\\fanji\\AndroidStudioProjects\\TestTodoist01\\pull_to_refresh\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\fanji\\AndroidStudioProjects\\TestTodoist01\\pull_to_refresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\Users\\fanji\\AndroidStudioProjects\\TestTodoist01\\pull_to_refresh\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/nav_task_list"
+            android:icon="@drawable/ic_plan_list_black_48dp"
+            android:title="正在进行" />
+        <item
+            android:id="@+id/nav_plan_list"
+            android:icon="@drawable/ic_task_list_black_48dp"
+            android:title="计划列表" />
+        <item
+            android:id="@+id/nav_task_complete_list"
+            android:icon="@drawable/ic_task_complete_list_black_48dp"
+            android:title="已完成" />
+
+    </group>
+
+    <item android:title="选项">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="分享" />
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_settings_black_48dp"
+                android:title="设置" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "596085120367",
+    "firebase_url": "https://todoist-5bcd9.firebaseio.com",
+    "project_id": "todoist-5bcd9",
+    "storage_bucket": "todoist-5bcd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596085120367:android:8b30126309246812",
+        "android_client_info": {
+          "package_name": "me.fanjie.testtodoist01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596085120367-q6esemvrulg5kkj0tooptrjl75spdbq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv1V86QslMLx9d-3Gi5C2dcpUf1Orgf6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
